@@ -21,9 +21,9 @@ main {
 	font: normal bold 18px Arial;
 }
 
-.center{
-	display:inline-block;
-	width:80px;
+.imdb{
+	display:block;
+	width:109px;
 	margin: 0 auto;
 }
 
